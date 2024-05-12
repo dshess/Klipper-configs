@@ -1,0 +1,14 @@
+SuperSlicer profiles I have used.
+
+Oldschool/ - Monoprice Maker Select I used awhile back to print Voron parts.
+  Oldschool.ini                       ; a printer config
+  Voron Fast.ini                      ; a print config
+  Polymaker ABS Black (Oldschool).ini ; a filament config
+NOTE: This printer has been sitting in a pile on the floor for
+around a year.  The configs above are my best guess from picking
+through the config dir.
+
+IIIP/ - Monoprice Maker Select Plus I'm using to print Bastion parts.
+  Monoprice Maker Select Plus.ini  ; a printer config
+  IIIP Bastion.ini                 ; a print config
+  PLA - IIIP - Monoprice Black.ini ; a filament config

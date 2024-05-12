@@ -1,0 +1,15 @@
+Some Klipper and SuperSlicer configs.
+
+Monoprice Maker Select - Wanhao Duplicator i3 clone.  Also Cocoon
+Create.  Ancient Melzi board with notabe issues.  Mine was the
+version with the square box, which I suspect makes it the original.
+I was running with a Le Potato off Amazon rather than an rpi, due
+to the shortage.
+
+Monoprice Maker Select Plus - Wanhao Duplicator i3 Plus clone, also
+Cocoon Create Touch.  Klipper doesn't drive the touch screen, because
+it requires some kind of serial-port pass-through.  There is a
+project out there to adapt to a similar screen:
+   https://github.com/Thinkersbluff/DGUS-Reloaded_for_CR6-Klipper_Component
+I just got some cheap ESP32 displays and put CYD-Klipper on them:
+   https://github.com/suchmememanyskill/CYD-Klipper
